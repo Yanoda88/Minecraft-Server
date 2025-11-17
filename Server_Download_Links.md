@@ -9,10 +9,11 @@ Willkommen bei den offiziellen GameZone Community Server Downloads! Hier findest
 1. **Download** – Klicke auf den gewünschten Download-Link
 2. **Entpacken** – Extrahiere die heruntergeladene `.zip`-Datei
 3. **Kopieren** – Verschiebe den entpackten Ordner `Server20xx-v-x_x_x` in deinen Minecraft-Ordner:
-<br>
+
    ```
    \.minecraft\saves\
    ```
+   
 4. **Spielen** – Starte Minecraft und wähle die Welt aus!
 
 > **💡 Tipp:** Drücke `Win + R` und gib `%appdata%` ein, um direkt zum `.minecraft` Ordner zu gelangen.
