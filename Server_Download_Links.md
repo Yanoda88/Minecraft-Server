@@ -9,6 +9,7 @@ Willkommen bei den offiziellen GameZone Community Server Downloads! Hier findest
 1. **Download** – Klicke auf den gewünschten Download-Link
 2. **Entpacken** – Extrahiere die heruntergeladene `.zip`-Datei
 3. **Kopieren** – Verschiebe den entpackten Ordner `Server20xx-v-x_x_x` in deinen Minecraft-Ordner:
+<br>
    ```
    \.minecraft\saves\
    ```
@@ -40,7 +41,7 @@ Willkommen bei den offiziellen GameZone Community Server Downloads! Hier findest
 
 - **Minecraft Version:** `1.20.1`
 - **Ordnername:** `Server2023-v-1_20_1`
-- **Download:** [Server2023-v-1_20_1.zip](https://purpurmc.org/downloads)
+- **Download:** [Server2023-v-1_20_1.zip](https://drive.google.com/file/d/1QVUz4hVTenvv435eQaom7C7y9petCawV/view?usp=sharing)
 
 ---
 
@@ -48,6 +49,6 @@ Willkommen bei den offiziellen GameZone Community Server Downloads! Hier findest
 
 - **Minecraft Version:** `1.19.2`
 - **Ordnername:** `Server2022-v-1_19_2`
-- **Download:** [Server2022-v-1_19_2.zip](https://fabricmc.net/use/server/)
+- **Download:** [Server2022-v-1_19_2.zip](https://drive.google.com/file/d/1YXHJ2mm8exzSbbK-byT6IXdB6t1nnIqm/view?usp=sharing)
 
 ---
