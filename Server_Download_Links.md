@@ -13,7 +13,7 @@ Willkommen bei den offiziellen GameZone Community Server Downloads! Hier findest
    ```
    \.minecraft\saves\
    ```
-   
+
 4. **Spielen** – Starte Minecraft und wähle die Welt aus!
 
 > **💡 Tipp:** Drücke `Win + R` und gib `%appdata%` ein, um direkt zum `.minecraft` Ordner zu gelangen.
@@ -26,7 +26,7 @@ Willkommen bei den offiziellen GameZone Community Server Downloads! Hier findest
 
 - **Minecraft Version:** `1.21.8`
 - **Ordnername:** `Server2025-v-1_21_8`
-- **Download:** [Server2025-v-1_21_8.zip](https://www.minecraft.net/en-us/download/server)
+- **Download:** [Server2025-v-1_21_8.zip](https://drive.google.com/file/d/1poVDSKWxn-_rcGLm6cg6mrqjGmVXIYFv/view?usp=sharing)
 
 ---
 
@@ -34,7 +34,7 @@ Willkommen bei den offiziellen GameZone Community Server Downloads! Hier findest
 
 - **Minecraft Version:** `1.21.1`
 - **Ordnername:** `Server2024-v-1_21_1`
-- **Download:** [Server2024-v-1_21_1.zip](https://papermc.io/downloads)
+- **Download:** [Server2024-v-1_21_1.zip](https://drive.google.com/file/d/1IxhTstBgj60Z5kaphDX3ugNA8CjmqlHb/view?usp=sharing)
 
 ---
 
@@ -53,3 +53,7 @@ Willkommen bei den offiziellen GameZone Community Server Downloads! Hier findest
 - **Download:** [Server2022-v-1_19_2.zip](https://drive.google.com/file/d/1YXHJ2mm8exzSbbK-byT6IXdB6t1nnIqm/view?usp=sharing)
 
 ---
+
+## Probleme?
+
+Bei Fragen oder Problemen wende dich einfach an die Moderatoren auf dem GameZone Discord Server.
